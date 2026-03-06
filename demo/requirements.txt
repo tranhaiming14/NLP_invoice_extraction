@@ -1,0 +1,22 @@
+# FastAPI and web server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Image processing
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# OCR
+easyocr==1.7.1
+
+# Deep learning & transformers
+torch==2.1.2
+transformers==4.36.2
+
+# LLM API
+google-generativeai==0.3.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.3

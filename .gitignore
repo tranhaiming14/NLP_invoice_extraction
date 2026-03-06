@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+layoutlm_env
+SROIE2019/
+dataset/
+train/SROIE2019/
+train/dataset/
+train/output/
+*.safetensors
+.env
